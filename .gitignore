@@ -108,3 +108,6 @@ mounts/
 
 # Config Local file
 config.env
+
+# Ignore mac DS_Store
+.DS_Store
